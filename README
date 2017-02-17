@@ -1,0 +1,8 @@
+Name:       EIATool
+Author:     Cameron Entzminger
+Date:       2-17-17
+Version:    1.0
+
+Desc: EIATool is an expandable and secure, form-based database manipulation
+tool used to store and display U.S. Energy Information Administration (EIA)
+data and other market related data.
