@@ -18,6 +18,7 @@ from django.contrib import admin
 
 # url needs regex and view, optional kwargs and name
 urlpatterns = [
+    url(r'^csvimport/', include('csvimport.urls')),
     url(r'^polls/', include('polls.urls')),
     url(r'^admin/', admin.site.urls),
 ]
